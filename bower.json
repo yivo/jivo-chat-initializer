@@ -1,20 +1,21 @@
 {
   "name": "jivo-chat-initializer",
-  "homepage": "https://github.com/yivo/jivo-chat-initializer",
-  "authors": [
-    "Yaroslav Konoplov <yaroslav@inbox.com>"
-  ],
   "description": "This snippet of code automatically initializes jivo chat with config retrieved from meta tags. Friendly with Turbolinks and pjax.",
   "main": "initializer.coffee",
+  "authors": [
+    "Yaroslav Konoplov <eahome00@gmail.com>"
+  ],
   "license": "MIT",
+  "keywords": [
+    "jivo",
+    "chat"
+  ],
+  "homepage": "https://github.com/yivo/jivo-chat-initializer",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests",
-    "coffeespec",
-    "source",
-    "spec"
+    "tests"
   ]
 }
